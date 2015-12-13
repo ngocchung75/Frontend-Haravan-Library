@@ -1,4 +1,4 @@
 # Summary
 
-* Giới thiệu
+* [Giới thiệu](gioi_thieu.md)
 
